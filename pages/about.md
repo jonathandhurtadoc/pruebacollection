@@ -1,5 +1,5 @@
 ---
-title: About
+title: Sobre la investigación
 layout: about
 permalink: /about.html
 # include CollectionBuilder info at bottom
@@ -11,6 +11,12 @@ credits: true
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+
+
+## Sobre la colección
+
+Esta colección es un ejercicio de comprensión de la identidad colombiana. En particular, el estudio se centró en comprender las representaciones de la identidad en el cine silente colombiano. Podrá navegar a través de la colección usando las etiquetas, es decir, los tipo de representación. 
+
 
 ## About the Collection
 
