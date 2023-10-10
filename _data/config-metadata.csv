@@ -1,15 +1,15 @@
 field,display_name,browse_link,external_link
-title,Title,
-creator,Creator,
-date,Date Created,
-description,Description,
-subject,Subjects,true
+title,Título,
+creator,Discurso,
+date,Película,
+description,Descripción,
+subject,Categorías,true
 location,Location
 latitude,Latitude
 longitude,Longitude
 source,Source
 identifier,Source Identifier,,
-type,Type,
-format,Format,
-rights,Rights,
+type,Tipo de archivo,
+format,Formato,
+rights,Descripción del discurso,
 rightsstatement,Rights Statement,,true
