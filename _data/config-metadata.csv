@@ -7,6 +7,9 @@ year, Año,
 description,Descripción de la escena,
 subject,Tipo de representación,true
 rights,Descripción del discurso,
+tag_narrativo,Etiqueta narrativa,
+tag_gestual,Etiqueda gestual,
+proxemia,Distancia entre personajes,
 location,Location
 latitude,Latitude
 longitude,Longitude
