@@ -2,8 +2,8 @@ field,display_name,browse_link,external_link
 title,Título,
 creator,Discurso,
 date,Película,
-description,Descripción,
-subject,Categorías,true
+description,Descripción de la escena,
+subject,Tipo de representación,true
 location,Location
 latitude,Latitude
 longitude,Longitude
