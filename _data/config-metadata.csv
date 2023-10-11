@@ -4,6 +4,7 @@ creator,Discurso,
 date,Película,
 description,Descripción de la escena,
 subject,Tipo de representación,true
+rights,Descripción del discurso,
 location,Location
 latitude,Latitude
 longitude,Longitude
@@ -11,5 +12,4 @@ source,Source
 identifier,Source Identifier,,
 type,Tipo de archivo,
 format,Formato,
-rights,Descripción del discurso,
 rightsstatement,Rights Statement,,true
