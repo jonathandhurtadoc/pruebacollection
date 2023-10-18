@@ -10,22 +10,34 @@
 ## Tutorial 
 
 Para iniciar la navegación por las representaciones, usted podrá tomar dos caminos: Categorías y Navegar. Ambas páginas de la web están pensadas para que comprenda la colección en su profundidad de 231 escenas. Primero, debe saber que cada escena tiene un título, una descripción, una casilla que nos dice a qué película corresponde, su director y el año de estreno, un discurso y su descripción, un tiempo de inicio y final, una etiqueta narrativa y una gestual; distancia entre los personajes; tipos de representación; fuente (source); tipo de archivo y formato del archivo. 
- Bajo la pestaña “navegar” podrá encontrar la totalidad de la colección y buscar por orden aleatorio, título o película. Por ejemplo, puede escribir el nombre de una película y verá todas las escenas que hacen parte de ella. Si decide filtrar por título, puede intentar probar suerte y poner una palabra que crea que puede aparecer en la búsqueda. Como sugerencia le recomiendo buscar las palabras “paseo” o “amor”. Verá que, buscando por orden aleatorio, la búsqueda se hará por cualquier casilla de las que fueron descritas en el párrafo anterior. 
+
+Bajo la pestaña “navegar” podrá encontrar la totalidad de la colección y buscar por orden aleatorio, título o película. Por ejemplo, puede escribir el nombre de una película y verá todas las escenas que hacen parte de ella. Si decide filtrar por título, puede intentar probar suerte y poner una palabra que crea que puede aparecer en la búsqueda. Como sugerencia le recomiendo buscar las palabras “paseo” o “amor”. Verá que, buscando por orden aleatorio, la búsqueda se hará por cualquier casilla de las que fueron descritas en el párrafo anterior. 
+ 
 Por el contrario, bajo la pestaña “categorías”, usted encontrará una nube de palabras. Entre más grande sea la palabra significa que aparece más veces en las escenas. En esta nube aparecen mezclados los tipos de representación y los discursos. Al hacer click sobre una palabra, verá reflejada como resultado una lista de las escenas que contienen este discurso o ese tipo de representación. 
 
 #### Tipo de representación: 
 Las representaciones, es decir las interacciones entre personajes en la pantalla, se catalogan en relaciones binarias entre dominados y dominantes. En la escena se pueden presentar relaciones entre iguales o desiguales, esto quiere decir que en algunas escenas existen relaciones entre hombres únicamente o sólo entre mujeres, estas son denominadas “iguales”.  Pero, si la interacción se da entre un hombre y una mujer, será una representación desigual ¿qué sucede si en la misma escena se identifican relaciones entre iguales y desiguales? Se le asignó según la relación más relevante desarrollada en la escena en términos de las relaciones de poder y que represente un insumo para los ejercicios analíticos.
+
 Las representaciones de podrá encontrar en este ejercicio son:
+
 Desiguales
+
 Hombre/mujer
+
 Rico/pobre
+
 Adulto/niño
+
 Padre/hija
 
 Iguales
+
 Hombre/hombre
+
 Rico/rico
+
 Pobre/pobre
+
 Mujer/mujer
 
 
