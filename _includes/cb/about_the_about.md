@@ -20,7 +20,7 @@ Las representaciones, es decir las interacciones entre personajes en la pantalla
 
 Las representaciones de podrá encontrar en este ejercicio son:
 
-Desiguales
+##### Desiguales
 
 Hombre/mujer
 
@@ -30,7 +30,7 @@ Adulto/niño
 
 Padre/hija
 
-Iguales
+#####Iguales
 
 Hombre/hombre
 
@@ -55,6 +55,9 @@ La proxemia mide la distancia entre los personajes. Esto es importante porque pe
 La información descrita en la casilla de descripción de la escena se realizó manualmente. Es decir, el investigador describió cada escena pensando en los procesos de representación dentro de las escenas, por tanto, aunque tienen tiene una descripción narrativa, esta está concentrada en cómo representan a la identidad y son el principal insumo de los análisis discursivos. 
 
 
+#### DATA
+
+Si usted desea descargar los datos de esta colección, podrá hacerlo presionando en la pestaña “Data” dónde encontrará la opción para descargar los datos completos. Así mismo, en la pestaña  “Inicio” podrá encontrar la opción de descargar los datos específicos en diversos formatos. Esto aparece cuando navega al fondo de la pestaña “Inicio” y podrá descargar datos en CSV, JSON y el CODE que permitió desarrollar esta colección web. 
 
 
 
