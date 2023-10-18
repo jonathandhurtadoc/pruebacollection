@@ -7,6 +7,45 @@
 {% assign audiosample = site.data[site.metadata] | where_exp: 'item','item.format contains "audio"' | first %}
 {% capture audiosampleid %}{{audiosample.objectid | default: "https://www.lib.uidaho.edu/digital/mp3s/Clouds.mp3"}}{% endcapture %}
 
+## Tutorial 
+
+Para iniciar la navegación por las representaciones, usted podrá tomar dos caminos: Categorías y Navegar. Ambas páginas de la web están pensadas para que comprenda la colección en su profundidad de 231 escenas. Primero, debe saber que cada escena tiene un título, una descripción, una casilla que nos dice a qué película corresponde, su director y el año de estreno, un discurso y su descripción, un tiempo de inicio y final, una etiqueta narrativa y una gestual; distancia entre los personajes; tipos de representación; fuente (source); tipo de archivo y formato del archivo. 
+ Bajo la pestaña “navegar” podrá encontrar la totalidad de la colección y buscar por orden aleatorio, título o película. Por ejemplo, puede escribir el nombre de una película y verá todas las escenas que hacen parte de ella. Si decide filtrar por título, puede intentar probar suerte y poner una palabra que crea que puede aparecer en la búsqueda. Como sugerencia le recomiendo buscar las palabras “paseo” o “amor”. Verá que, buscando por orden aleatorio, la búsqueda se hará por cualquier casilla de las que fueron descritas en el párrafo anterior. 
+Por el contrario, bajo la pestaña “categorías”, usted encontrará una nube de palabras. Entre más grande sea la palabra significa que aparece más veces en las escenas. En esta nube aparecen mezclados los tipos de representación y los discursos. Al hacer click sobre una palabra, verá reflejada como resultado una lista de las escenas que contienen este discurso o ese tipo de representación. 
+
+#### Tipo de representación: 
+Las representaciones, es decir las interacciones entre personajes en la pantalla, se catalogan en relaciones binarias entre dominados y dominantes. En la escena se pueden presentar relaciones entre iguales o desiguales, esto quiere decir que en algunas escenas existen relaciones entre hombres únicamente o sólo entre mujeres, estas son denominadas “iguales”.  Pero, si la interacción se da entre un hombre y una mujer, será una representación desigual ¿qué sucede si en la misma escena se identifican relaciones entre iguales y desiguales? Se le asignó según la relación más relevante desarrollada en la escena en términos de las relaciones de poder y que represente un insumo para los ejercicios analíticos.
+Las representaciones de podrá encontrar en este ejercicio son:
+Desiguales
+Hombre/mujer
+Rico/pobre
+Adulto/niño
+Padre/hija
+
+Iguales
+Hombre/hombre
+Rico/rico
+Pobre/pobre
+Mujer/mujer
+
+
+#### Discursos:
+Los discursos son categorías analíticas emergentes que aparecen luego de realizar un ejercicio de descripción con todas las partes anteriores. Según esta información, fueron asignados discursos que surgían para entender la profundidad de las escenas y lo que mostraban de la identidad colombiana. Es decir, un discurso es una abstracción de lo que aparece en la pantalla, es un análisis que comprende el sentido identitario de esas interacciones en pantalla y sus posibles relaciones con otras escenas. En total existen 30 discursos que condensan los principales valores de la identidad colombiana, por lo menos, de los que las películas representaron. 
+
+#### Etiqueta narrativa: 
+Esta etiqueta es una simplificación en una palabra de lo que pasa en la escena. Es decir, si en la escena hay una muestra de fe religiosa a través de iglesias o rezos, la palabra será religiosidad. Esto sucede con todas las escenas y permite comprender a través de las visualizaciones ancladas las principales etiquetas y patrones que aparecen en las películas. 
+#### Etiqueta gestual: 
+Esta etiqueta es una simplificación en una palabra de lo que lo que los gestos de los personajes simbolizan. Si los gestos de los personajes y la narración indican que están preocupados, la palabra será preocupación. Podrá identificar las principales etiquetas a través de las visualizaciones ancladas. 
+#### Proxemia (distancia entre personajes): 
+La proxemia mide la distancia entre los personajes. Esto es importante porque permite identificar cómo interactúan los personajes entre ellos. Por ejemplo, a través de la visualización anclada podemos entender que los personajes ricos suelen estar cerca entre ellos, pero los ricos suelen estar a distancia media de los pobres. 
+
+#### Descripción
+La información descrita en la casilla de descripción de la escena se realizó manualmente. Es decir, el investigador describió cada escena pensando en los procesos de representación dentro de las escenas, por tanto, aunque tienen tiene una descripción narrativa, esta está concentrada en cómo representan a la identidad y son el principal insumo de los análisis discursivos. 
+
+
+
+
+
 ## About the About Page
 
 We want to make engaging interpretive pages easier to create, so CollectionBuilder gives you tools to write *with* your collection content!
