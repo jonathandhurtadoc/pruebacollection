@@ -30,7 +30,7 @@ Adulto/niño
 
 Padre/hija
 
-#####Iguales
+##### Iguales
 
 Hombre/hombre
 
