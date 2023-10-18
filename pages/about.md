@@ -14,7 +14,7 @@ credits: true
 
 ## Sobre la colección
 
-Esta colección es un ejercicio de comprensión de la identidad colombiana. En particular, el estudio se centró en comprender las representaciones de la identidad en el cine silente colombiano. Podrá navegar a través de la colección usando las etiquetas, es decir, los tipos de representación. 
+Esta página hace una recopilación y navegación por las representaciones identitarias del cine mudo colombiano. Ahora, entenderemos las conceptualizaciones de cada categoría para que cobren sentido al navegarlas. Las 9 películas han sido descritas y analizadas previamente bajo categorías analíticas que surgen de un análisis crítico de los estudios de las identidades en Colombia. La postura de este estudio es que la identidad puede comprenderse a través de las relaciones de poder que permiten las relaciones y dinámicas entre las personas (personajes en este caso). Cada persona(je) cobra sentido a través del rol social que ejerce en unas relaciones jerárquicamente organizadas. La relación e interacción entre los personajes nos empuja a profundizar en esas relaciones de clase, género y edad que se pueden simplificar en los tipos de representación. 
 
 ## Acerca de la colección y CollectionBuilder
 
