@@ -46,6 +46,9 @@ Los discursos son categorías analíticas emergentes que aparecen luego de reali
 
 #### Etiqueta narrativa: 
 Esta etiqueta es una simplificación en una palabra de lo que pasa en la escena. Es decir, si en la escena hay una muestra de fe religiosa a través de iglesias o rezos, la palabra será religiosidad. Esto sucede con todas las escenas y permite comprender a través de las visualizaciones ancladas las principales etiquetas y patrones que aparecen en las películas. 
+
+{% include feature/button.html text="Visualización tag_narrativa" link="https://public.flourish.studio/visualisation/15412296/" color="success" centered=true %}
+
 #### Etiqueta gestual: 
 Esta etiqueta es una simplificación en una palabra de lo que lo que los gestos de los personajes simbolizan. Si los gestos de los personajes y la narración indican que están preocupados, la palabra será preocupación. Podrá identificar las principales etiquetas a través de las visualizaciones ancladas. 
 #### Proxemia (distancia entre personajes): 
