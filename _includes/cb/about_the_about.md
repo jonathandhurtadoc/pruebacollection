@@ -51,8 +51,13 @@ Esta etiqueta es una simplificación en una palabra de lo que pasa en la escena.
 
 #### Etiqueta gestual: 
 Esta etiqueta es una simplificación en una palabra de lo que lo que los gestos de los personajes simbolizan. Si los gestos de los personajes y la narración indican que están preocupados, la palabra será preocupación. Podrá identificar las principales etiquetas a través de las visualizaciones ancladas. 
+
+{% include feature/button.html text="Visualización tag_gestual" link="https://public.flourish.studio/visualisation/15413250/" color="success" centered=true %}
+
 #### Proxemia (distancia entre personajes): 
-La proxemia mide la distancia entre los personajes. Esto es importante porque permite identificar cómo interactúan los personajes entre ellos. Por ejemplo, a través de la visualización anclada podemos entender que los personajes ricos suelen estar cerca entre ellos, pero los ricos suelen estar a distancia media de los pobres. 
+La proxemia mide la distancia entre los personajes. Esto es importante porque permite identificar cómo interactúan los personajes entre ellos. Por ejemplo, a través de la visualización anclada podemos entender que los personajes ricos suelen estar cerca entre ellos, pero los ricos suelen estar a distancia media de los pobres.
+
+{% include feature/button.html text="Visualización proxemia" link="https://public.flourish.studio/visualisation/15413327/" color="success" centered=true %}
 
 #### Descripción
 La información descrita en la casilla de descripción de la escena se realizó manualmente. Es decir, el investigador describió cada escena pensando en los procesos de representación dentro de las escenas, por tanto, aunque tienen tiene una descripción narrativa, esta está concentrada en cómo representan a la identidad y son el principal insumo de los análisis discursivos. 
