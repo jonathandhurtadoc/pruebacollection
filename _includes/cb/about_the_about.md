@@ -42,7 +42,9 @@ Mujer/mujer
 
 
 #### Discursos:
-Los discursos son categorías analíticas emergentes que aparecen luego de realizar un ejercicio de descripción con todas las partes anteriores. Según esta información, fueron asignados discursos que surgían para entender la profundidad de las escenas y lo que mostraban de la identidad colombiana. Es decir, un discurso es una abstracción de lo que aparece en la pantalla, es un análisis que comprende el sentido identitario de esas interacciones en pantalla y sus posibles relaciones con otras escenas. En total existen 30 discursos que condensan los principales valores de la identidad colombiana, por lo menos, de los que las películas representaron. 
+Los discursos son categorías analíticas emergentes que aparecen luego de realizar un ejercicio de descripción con todas las partes anteriores. Según esta información, fueron asignados discursos que surgían para entender la profundidad de las escenas y lo que mostraban de la identidad colombiana. Es decir, un discurso es una abstracción de lo que aparece en la pantalla, es un análisis que comprende el sentido identitario de esas interacciones en pantalla y sus posibles relaciones con otras escenas. En total existen 30 discursos que condensan los principales valores de la identidad colombiana, por lo menos, de los que las películas representaron. Para entender visualmente la magnitud de la aparición de los discursos puede consultar la siguiente visualización: 
+
+{% include feature/button.html text="discursos" link="https://public.flourish.studio/visualisation/15217308/" color="success" centered=true %}
 
 #### Etiqueta narrativa: 
 Esta etiqueta es una simplificación en una palabra de lo que pasa en la escena. Es decir, si en la escena hay una muestra de fe religiosa a través de iglesias o rezos, la palabra será religiosidad. Esto sucede con todas las escenas y permite comprender a través de las visualizaciones ancladas las principales etiquetas y patrones que aparecen en las películas. 
