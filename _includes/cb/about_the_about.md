@@ -15,6 +15,16 @@ Bajo la pestaña “navegar” podrá encontrar la totalidad de la colección y 
  
 Por el contrario, bajo la pestaña “categorías”, usted encontrará una nube de palabras. Entre más grande sea la palabra significa que aparece más veces en las escenas. En esta nube aparecen mezclados los tipos de representación y los discursos. Al hacer click sobre una palabra, verá reflejada como resultado una lista de las escenas que contienen este discurso o ese tipo de representación. 
 
+
+## Películas
+
+En los siguientes PDFs podré encontrar las películas que se fueron analizadas para esta colección con el título de cada escena y su respectiva temporalidad: 
+
+{% raw %
+}{% include feature/pdf.html objectid="amordebercrimen"  width="50" %}
+{% endraw %}
+
+
 #### Tipo de representación: 
 Las representaciones, es decir las interacciones entre personajes en la pantalla, se catalogan en relaciones binarias entre dominados y dominantes. En la escena se pueden presentar relaciones entre iguales o desiguales, esto quiere decir que en algunas escenas existen relaciones entre hombres únicamente o sólo entre mujeres, estas son denominadas “iguales”.  Pero, si la interacción se da entre un hombre y una mujer, será una representación desigual ¿qué sucede si en la misma escena se identifican relaciones entre iguales y desiguales? Se le asignó según la relación más relevante desarrollada en la escena en términos de las relaciones de poder y que represente un insumo para los ejercicios analíticos.
 
