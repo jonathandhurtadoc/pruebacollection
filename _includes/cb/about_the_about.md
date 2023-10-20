@@ -20,11 +20,10 @@ Por el contrario, bajo la pestaña “categorías”, usted encontrará una nube
 
 En los siguientes PDFs podré encontrar las películas que se fueron analizadas para esta colección con el título de cada escena y su respectiva temporalidad: 
 
-{% raw %}
+
 
 {% include feature/pdf.html objectid="amordebercrimen"  width="50" %}
 
-{% endraw %}
 
 
 #### Tipo de representación: 
