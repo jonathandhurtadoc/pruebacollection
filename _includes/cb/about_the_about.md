@@ -20,10 +20,8 @@ Por el contrario, bajo la pestaña “categorías”, usted encontrará una nube
 
 En los siguientes PDFs podré encontrar las películas que se fueron analizadas para esta colección con el título de cada escena y su respectiva temporalidad: 
 
-{% include file.ext param='/objects/amor.pdf'%} 
 
-{% include feature/pdf.html objectid=amor.pdf width="50" %}
-
+{% include feature/image.html objectid=amor width="75" %}
 
 
 #### Tipo de representación: 
