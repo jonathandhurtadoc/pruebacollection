@@ -22,7 +22,7 @@ En los siguientes PDFs podré encontrar las películas que se fueron analizadas 
 
 
 
-{% include feature/pdf.html objectid="amordebercrimen.pdf"  width="50" %}
+{% include feature/pdf.html objectid="amor"  width="50" %}
 
 
 
