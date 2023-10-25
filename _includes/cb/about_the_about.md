@@ -22,7 +22,7 @@ En los siguientes PDFs podré encontrar las películas que se fueron analizadas 
 
 
 
-{% raw %}{% include feature/pdf.html objectid="amor"  width="50" %}{% endraw %}`
+{% raw %}{% include feature/pdf.html objectid="amor"  width="50" %}{% endraw %}
 
 
 
