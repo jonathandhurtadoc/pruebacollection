@@ -21,7 +21,7 @@ Por el contrario, bajo la pestaña “categorías”, usted encontrará una nube
 En los siguientes PDFs podré encontrar las películas que se fueron analizadas para esta colección con el título de cada escena y su respectiva temporalidad: 
 
 
-{% include feature/image.html objectid=amor width="75" %}
+{% include feature/image.html objectid="amor" width="75" %}
 
 
 #### Tipo de representación: 
