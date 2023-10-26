@@ -1,9 +1,11 @@
 field,display_name,browse_link,external_link
-title,Título,
+title,Título de la escena,
 creator,Discurso,
 date,Película,
 author, Director,
 year, Año,
+time_inicio, Tiempo de inicio de la escena, 
+time_final, Tiempo de final de la escena,
 description,Descripción de la escena,
 subject,Tipo de representación,true
 rights,Descripción del discurso,
