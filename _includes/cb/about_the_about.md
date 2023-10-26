@@ -11,9 +11,26 @@ Por el contrario, bajo la pestaña “categorías”, usted encontrará una nube
 
 ## Películas
 
-En los siguientes botones podrá encontrar las películas que fueron analizadas para esta colección con el título de cada escena y su respectiva temporalidad: 
+En los siguientes botones podrá encontrar las películas que fueron analizadas para esta colección con el título de cada escena y su respectiva temporalidad, debe hacer click sobre el nombre de la película: 
 
-{% include feature/button.html text="la tragedia del silencio" link="https://drive.google.com/file/d/1xXi59KpEh0CvucJKU54f3igCeCSw3KvH/view?usp=sharing" color="success" centered=true %}
+{% include feature/button.html text="La tragedia del silencio" link="https://drive.google.com/file/d/1xXi59KpEh0CvucJKU54f3igCeCSw3KvH/view?usp=sharing" color="success" centered=true %}
+
+{% include feature/button.html text="El amor, el deber y el crimen" link="https://drive.google.com/file/d/11pQUMnfk140pnpmR5gZ1pbJOmaPdKbig/view?usp=sharing" color="success" centered=true %}
+
+{% include feature/button.html text="Aura o las violetas" link="https://drive.google.com/file/d/1m8UaVITGz6He97HLpwNlt0PkIoaYZQzb/view?usp=sharing" color="success" centered=true %}
+
+{% include feature/button.html text="Madre" link="https://drive.google.com/file/d/1XsiQ9bezkRVVM5AVygUo1-m6rdvtV9GX/view?usp=sharing" color="success" centered=true %}
+
+{% include feature/button.html text="Bajo el cielo antioqueño" link="https://drive.google.com/file/d/1T1b4Zm6wHxEPX91qG7tIahl_HayAoRlp/view?usp=sharing" color="success" centered=true %}
+
+{% include feature/button.html text="Manizales City" link="https://drive.google.com/file/d/1NBG39SLQKbSRyMTsOIP5qLuwdKLeXZL2/view?usp=sharing" color="success" centered=true %}
+
+{% include feature/button.html text="Garras de oro" link="https://drive.google.com/file/d/1Dde4CARSizeGZ-5cK2iP9a_Ldrnn6uOq/view?usp=sharing" color="success" centered=true %}
+
+{% include feature/button.html text="Como los muertos" link="https://drive.google.com/file/d/18ptw_9C0kAPXWiZ98D9hxmU2VSyB-aft/view?usp=sharing" color="success" centered=true %}
+
+{% include feature/button.html text="Alma provinciana" link="https://drive.google.com/file/d/1uXEvUMAvu3w0wzVoG-NI1cwBBmcVpl0M/view?usp=sharing" color="success" centered=true %}
+
 
 #### Tipo de representación: 
 Las representaciones, es decir las interacciones entre personajes en la pantalla, se catalogan en relaciones binarias entre dominados y dominantes. En la escena se pueden presentar relaciones entre iguales o desiguales, esto quiere decir que en algunas escenas existen relaciones entre hombres únicamente o sólo entre mujeres, estas son denominadas “iguales”.  Pero, si la interacción se da entre un hombre y una mujer, será una representación desigual ¿qué sucede si en la misma escena se identifican relaciones entre iguales y desiguales? Se le asignó según la relación más relevante desarrollada en la escena en términos de las relaciones de poder y que represente un insumo para los ejercicios analíticos.
