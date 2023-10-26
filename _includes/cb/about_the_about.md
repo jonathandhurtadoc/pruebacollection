@@ -31,6 +31,7 @@ En los siguientes botones podrá encontrar las películas que fueron analizadas 
 
 {% include feature/button.html text="Alma provinciana" link="https://drive.google.com/file/d/1uXEvUMAvu3w0wzVoG-NI1cwBBmcVpl0M/view?usp=sharing" color="success" centered=true %}
 
+Nota: Las escenas que en las tablas aparaecen con el nombre de créditos o fin no fueron incluidas en la colección. 
 
 #### Tipo de representación: 
 Las representaciones, es decir las interacciones entre personajes en la pantalla, se catalogan en relaciones binarias entre dominados y dominantes. En la escena se pueden presentar relaciones entre iguales o desiguales, esto quiere decir que en algunas escenas existen relaciones entre hombres únicamente o sólo entre mujeres, estas son denominadas “iguales”.  Pero, si la interacción se da entre un hombre y una mujer, será una representación desigual ¿qué sucede si en la misma escena se identifican relaciones entre iguales y desiguales? Se le asignó según la relación más relevante desarrollada en la escena en términos de las relaciones de poder y que represente un insumo para los ejercicios analíticos.
