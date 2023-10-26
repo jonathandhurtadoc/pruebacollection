@@ -1,3 +1,11 @@
+{% assign imagesample = site.data[site.metadata] | where_exp: 'item','item.format contains "image"' | first %}
+{% capture imagesampleid %}{{imagesample.objectid | default: "https://www.lib.uidaho.edu/collectionbuilder/demo-objects/mg101_b6_photographs_01.jpg"}}{% endcapture %}
+{% assign pdfsample = site.data[site.metadata] | where_exp: 'item','item.format contains "pdf"' | first %}
+{% capture pdfsampleid %}{{pdfsample.objectid | default: "https://digital.lib.uidaho.edu/utils/getfile/collection/ui_ep/id/21768/filename/uiext21768.pdf"}}{% endcapture %}
+{% assign videosample = site.data[site.metadata] | where_exp: 'item','item.format contains "video"' | first %}
+{% capture videosampleid %}{{videosample.objectid | default: "https://cdil.lib.uidaho.edu/storying-extinction/objects/trailcams/videos/ballcreek-cedarrub-birdonpath.mp4"}}{% endcapture %}
+{% assign audiosample = site.data[site.metadata] | where_exp: 'item','item.format contains "audio"' | first %}
+{% capture audiosampleid %}{{audiosample.objectid | default: "https://www.lib.uidaho.edu/digital/mp3s/Clouds.mp3"}}{% endcapture %}
 
 
 ## Tutorial 
@@ -31,7 +39,7 @@ En los siguientes botones podrá encontrar las películas que fueron analizadas 
 
 {% include feature/button.html text="Alma provinciana" link="https://drive.google.com/file/d/1uXEvUMAvu3w0wzVoG-NI1cwBBmcVpl0M/view?usp=sharing" color="success" centered=true %}
 
-Nota: Las escenas que en las tablas aparaecen con el nombre de créditos o fin no fueron incluidas en la colección. 
+Nota: Las escenas que aparecen en las tablas con el nombre de "créditos" o "fin" no fueron incluidas en la colección. 
 
 #### Tipo de representación: 
 Las representaciones, es decir las interacciones entre personajes en la pantalla, se catalogan en relaciones binarias entre dominados y dominantes. En la escena se pueden presentar relaciones entre iguales o desiguales, esto quiere decir que en algunas escenas existen relaciones entre hombres únicamente o sólo entre mujeres, estas son denominadas “iguales”.  Pero, si la interacción se da entre un hombre y una mujer, será una representación desigual ¿qué sucede si en la misma escena se identifican relaciones entre iguales y desiguales? Se le asignó según la relación más relevante desarrollada en la escena en términos de las relaciones de poder y que represente un insumo para los ejercicios analíticos.
