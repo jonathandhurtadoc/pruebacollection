@@ -39,7 +39,7 @@ En los siguientes botones podrá encontrar las películas que fueron analizadas 
 
 {% include feature/button.html text="Alma provinciana" link="https://drive.google.com/file/d/1uXEvUMAvu3w0wzVoG-NI1cwBBmcVpl0M/view?usp=sharing" color="success" centered=true %}
 
-{% include feature/alert.html text="Nota: Las escenas que aparecen en las tablas con el nombre de "créditos" o "fin" no fueron incluidas en la colección. " color="warning" align="center" %}
+{% include feature/alert.html text="Nota: Las escenas que aparecen en las tablas con el nombre de 'créditos' o 'fin' no fueron incluidas en la colección. " color="warning" align="center" %}
 
 
 #### Tipo de representación: 
