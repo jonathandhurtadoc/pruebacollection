@@ -39,7 +39,8 @@ En los siguientes botones podrá encontrar las películas que fueron analizadas 
 
 {% include feature/button.html text="Alma provinciana" link="https://drive.google.com/file/d/1uXEvUMAvu3w0wzVoG-NI1cwBBmcVpl0M/view?usp=sharing" color="success" centered=true %}
 
-Nota: Las escenas que aparecen en las tablas con el nombre de "créditos" o "fin" no fueron incluidas en la colección. 
+{% include feature/alert.html text="Nota: Las escenas que aparecen en las tablas con el nombre de "créditos" o "fin" no fueron incluidas en la colección. " color="warning" align="center" %}
+
 
 #### Tipo de representación: 
 Las representaciones, es decir las interacciones entre personajes en la pantalla, se catalogan en relaciones binarias entre dominados y dominantes. En la escena se pueden presentar relaciones entre iguales o desiguales, esto quiere decir que en algunas escenas existen relaciones entre hombres únicamente o sólo entre mujeres, estas son denominadas “iguales”.  Pero, si la interacción se da entre un hombre y una mujer, será una representación desigual ¿qué sucede si en la misma escena se identifican relaciones entre iguales y desiguales? Se le asignó según la relación más relevante desarrollada en la escena en términos de las relaciones de poder y que represente un insumo para los ejercicios analíticos.
@@ -70,7 +71,7 @@ Mujer/mujer
 #### Discursos:
 Los discursos son categorías analíticas emergentes que aparecen luego de realizar un ejercicio de descripción con todas las partes anteriores. Según esta información, fueron asignados discursos que surgían para entender la profundidad de las escenas y lo que mostraban de la identidad colombiana. Es decir, un discurso es una abstracción de lo que aparece en la pantalla, es un análisis que comprende el sentido identitario de esas interacciones en pantalla y sus posibles relaciones con otras escenas. En total existen 30 discursos que condensan los principales valores de la identidad colombiana, por lo menos, de los que las películas representaron. Para entender visualmente la magnitud de la aparición de los discursos puede consultar la siguiente visualización: 
 
-{% include feature/button.html text="discursos" link="https://public.flourish.studio/visualisation/15217308/" color="success" centered=true %}
+{% include feature/button.html text="Discursos" link="https://public.flourish.studio/visualisation/15217308/" color="success" centered=true %}
 
 #### Etiqueta narrativa: 
 Esta etiqueta es una simplificación en una palabra de lo que pasa en la escena. Es decir, si en la escena hay una muestra de fe religiosa a través de iglesias o rezos, la palabra será religiosidad. Esto sucede con todas las escenas y permite comprender a través de las visualizaciones ancladas las principales etiquetas y patrones que aparecen en las películas. 
@@ -97,74 +98,3 @@ Si usted desea descargar los datos de esta colección, podrá hacerlo presionand
 
 
 
-## About the About Page
-
-We want to make engaging interpretive pages easier to create, so CollectionBuilder gives you tools to write *with* your collection content!
-
-The template comes with a customizable "About" page layout designed for long form content with rich media embeds.
-Content is written in [Markdown](https://guides.github.com/features/mastering-markdown/) and enhanced using "includes" that pull in collection content, external media, and [Bootstrap](https://getbootstrap.com/) features like cards and modals.
-We hope this makes it easier for site builders to develop the collection AND add interesting and engaging contextual information. 
-
-Each "include" file has several options, which are documented in the files themselves--copy the examples to see how it works with your content! 
-In the demo below, we've given display widths of 25% and 50% to save space, but you can feature the entire image or document.
-
-You can also see a page featuring [a bonanza of feature includes options](https://collectionbuilder.github.io/collectionbuilder-gh/feature_options.html) on our CollectionBuilder-GH demo site. 
-
-{% include feature/button.html text="Feature *Includes* Bonanza page" link="https://collectionbuilder.github.io/collectionbuilder-gh/feature_options.html" color="primary" size="lg" centered=true %}
-
-### Include Collection Items
-
-The template provides includes to pull your collection objects and metadata into your interpretive page, allowing you to write with your materials directly embedded in the content.
-
-#### Include an Image
-
-- Image --> `{% raw %}{% include feature/image.html objectid="demo_001" width="75" %}{% endraw %}`
-
-{% include feature/image.html objectid=imagesampleid width="75" %}
-
-#### Include a PDF
-
-- PDF -- > `{% raw %}{% include feature/pdf.html objectid="demo_002"  width="50" %}{% endraw %}`
-
-{% include feature/pdf.html objectid=pdfsampleid width="50" %}
-
-#### Include a Video
-
-- Video: `{% raw %}{% include feature/video.html objectid="demo_004" %}{% endraw %}`
-
-{% include feature/video.html objectid=videosampleid width="75" %}
-
-#### Include an Audio File
-
-- Audio: `{% raw %}{% include feature/audio.html objectid="demo_003" %}{% endraw %}`
-
-{% include feature/audio.html objectid=audiosampleid  %}
-
-### Include Bootstrap Features
-
-The template also provides includes to make it easier to add [Bootstrap](https://getbootstrap.com/) components to your Markdown writing.
-These features allow you to better organize and highlight your content.
-
-#### Include a Card
-
-- Card -- > `{% raw %}{% include feature/card.html header="This is a Card" text="The card features an image from the collection as a cap" objectid="demo004" width="25" centered=true %}{% endraw %}`
-
-{% include feature/card.html header="This is a Card" text="The card features an image from the collection as a cap" objectid="demo_001" width="25" centered=true %}
-
-#### Include a Button 
-
-- Buttons -- > `{% raw %}{% include feature/button.html text="Button Link to Somewhere" link="https://collectionbuilder.github.io/" color="success" %}{% endraw %}`
-
-{% include feature/button.html text="Button Link to Somewhere" link="https://collectionbuilder.github.io/" color="success" centered=true %}
-  
-#### Include an Alert
-
-- Alerts -- > `{% raw %}{% include feature/alert.html text="this is an *alert* that 'warns' a user" color="warning" align="center" %}{% endraw %}`
-
-{% include feature/alert.html text="This is an *alert* that 'warns' a user with centrally aligned text." color="warning" align="center"  %}
-
-#### Include a Modal
-
-- Modals -- > `{% raw %}{% include feature/modal.html button="This is a modal using a 'primary' colored button to invite clicking" title="when clicked:" text="A Modal will pop out a box with some more information" color="primary"  %}{% endraw %}`
-
-{% include feature/modal.html button="This is a modal using a 'primary' colored button to invite clicking" title="When clicked:" text="A Modal will pop out a box with some more information" color="primary"  %} 
