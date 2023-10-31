@@ -1,6 +1,6 @@
 <div class="card mb-3">
   <div class="card-body">
-    <h5 class="card-title">Aprende más sobre la colecciónn</h5>
+    <h5 class="card-title">Aprende más sobre la colección</h5>
     <p class="card-text">{{ site.description }}</p>
     {%- assign about = site.data.config-nav | where: "stub","/about.html" | size -%}
     {% if about > 0 %}<a class="btn btn-outline-primary" href="{{ '/about.html' | relative_url }}" >Haz click &raquo;</a>{% endif %}
