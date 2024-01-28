@@ -29,7 +29,7 @@ El repositorio de plantillas presenta cuatro objetos de las [Digital Collections
 Para obtener todos los detalles sobre cómo crear su propio sitio de colección, visite la [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
 ## Cómo citar el prototipo
-Hurtado, J, (fecha de consulta en formato: DD/MM/AAAA). ¿Identidad Colombiana? Las respuestas del cine silente. https://jonathandhurtadoc.github.io/pruebacollection/ https://www.rastreator.com/hipotecas/consejos/pedir-una-hipoteca.aspx
+Hurtado, J, (fecha de consulta en formato: DD/MM/AAAA). ¿Identidad Colombiana? Las respuestas del cine silente. https://jonathandhurtadoc.github.io/pruebacollection/
 
 
 
